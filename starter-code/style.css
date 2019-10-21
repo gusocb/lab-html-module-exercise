@@ -1,0 +1,53 @@
+nav {
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    padding-top: 15px;
+    height: 100px;
+  }
+  
+  nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+  }
+  .top-links {
+    display: inline-block;
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+  }
+  
+  .top-links li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  .top-page {
+      color: white;
+      background-color: rgb(32,101,136);
+  }
+
+  .header-1{
+      padding-top: 15px;
+  }
+  #logo{
+      padding-left: 20px;
+  }
+  #header-search{
+      text-align: center;
+  }
+  #header-2{
+      float: right;
+      padding-right: 20px;
+      margin:0;
+  }
+  .section1 {
+      color: white;
+      background-color: rgb(39,53,71);
+  }
+  .group1{
+      padding: 70px;
+  }
+
+  .section2{
+      color: white;
+
+  }
